@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 the second here
 
+=======
+the first here
+>>>>>>> refs/remotes/origin/master
