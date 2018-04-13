@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 change some thing here of first
 
+=======
+format of change conflig when commit.
+
+<<<<<<< HEAD
+the second here
+
+=======
+>>>>>>> d4af2e5d16bfa6a871ac4f5109c9321229dd54b8
 the first here
+
