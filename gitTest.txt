@@ -1,6 +1,8 @@
+format of change conflig when commit.
+
 <<<<<<< HEAD
 the second here
 
 =======
 the first here
->>>>>>> refs/remotes/origin/master
+
